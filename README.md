@@ -1,6 +1,6 @@
-# Kitchen Planner materials (2K)
+# Ormaro materials (2K)
 
-The scanned material sets [Kitchen Planner](https://github.com/vukasinnikolic/CabinetBuilder) downloads for
+The scanned material sets [Ormaro](https://github.com/vukasinnikolic/CabinetBuilder) downloads for
 renders, at 2048 px. The app itself ships the same sets at 1024 px (roughness at 512 px).
 
 All of it is CC0 1.0 (see `LICENSE`): scans from [ambientCG](https://ambientcg.com), listed asset by asset in
