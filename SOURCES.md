@@ -1,7 +1,7 @@
 # Sources
 
 Every picture here is a scanned material set from [ambientCG](https://ambientcg.com), licensed
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): the same sets Kitchen Planner ships at 1024 px,
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/): the same sets Ormaro ships at 1024 px,
 here at 2048 px. Each picture (`<name>.jpg`, from the asset's Color map) comes with its normal map
 (`<name>_n.webp`, from NormalGL; none on polished granite, quartz and marble) and roughness map
 (`<name>_r.webp`, from Roughness, rescaled to a mean of 0.75), the roughness at full size here (the app ships
